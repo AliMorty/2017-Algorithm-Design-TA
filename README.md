@@ -1,4 +1,4 @@
-# 2017-algorithm-design-ta
+# 2017-Algorithm-Design-Ta
 This course was taught by Dr. Rahmati.  I was in the problem setting team. 
 
 The reference book was :<br>
