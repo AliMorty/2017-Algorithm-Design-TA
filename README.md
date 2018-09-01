@@ -1,4 +1,4 @@
-# 2017-Algorithm-Design-Ta
+# 2017-Spring-Algorithm-Design-Ta
 This course was taught by Dr. Rahmati.  I was in the problem setting team. 
 
 The reference book was :<br>
