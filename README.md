@@ -3,11 +3,11 @@ This course was taught by Dr. Rahmati.  I was in the problem setting team.
 This course was taught by Dr. Rahmati. I was in the problem setting team.
 
 This course had 5 assignments:
-* Stable Matching
-* Greedy Algorithm and Graph
-* Divide and conquer
-* Dynamic Programming
-* Computation Complexity
+1. Stable Matching
+2. Greedy Algorithm and Graph
+3. Divide and conquer
+4. Dynamic Programming
+5. Computation Complexity
 
 
 The reference book was :<br>
